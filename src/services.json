@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Персональная тренировка по бегу (спринт)",
+    "price": "2200 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1350714790/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B0-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D0%B1%D0%B5%D0%B3%D0%B0%D0%B5%D1%82-%D0%B2%D0%B2%D0%B5%D1%80%D1%85-%D0%BF%D0%BE-%D0%BB%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D1%86%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-hiit-%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BE.jpg?s=612x612&w=0&k=20&c=mUZgzFS_EDbFdJhCCUXViwlE1aRqqbVygVUQTpx-lDk=",
+    "promo": 15,
+    "description": "Персональная тренировка по бегу на короткие дистанции, с акцентом на развитие скорости и взрывной силы. Включает интервальные тренировки, работу на максимальной скорости и упражнения на технику бега."
+  },
+  {
+    "id": 2,
+    "name": "Персональная тренировка по бегу (средние дистанции)",
+    "price": "2000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1160614855/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD-%D0%B1%D0%B5%D0%B3%D1%83%D0%BD-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82-%D0%BD%D0%B0-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85-%D1%82%D1%80%D0%B0%D1%81%D1%81%D0%B0%D1%85-%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%BE%D0%BD%D0%B0.jpg?s=612x612&w=0&k=20&c=YVxnHpyzXQbMtH6AvQiT2Yq771U9wUpA9zwhmquL9zM=",
+    "promo": 10,
+    "description": "Тренировка на средние дистанции с упором на объемные тренировки. Включает длинные отрезки, бег в гору, тренировки по пульсу и специальные силовые упражнения для улучшения выносливости."
+  },
+  {
+    "id": 3,
+    "name": "Персональная тренировка по бегу (бег на выносливость)",
+    "price": "1800 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1356510492/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D0%BB%D1%81%D1%8F-%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%BE%D0%B9-%D0%B1%D0%B5%D0%B3%D0%B0%D1%8E%D1%89%D0%B5%D0%B9-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BA%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9-%D0%B2-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D0%BE%D0%BC-%D0%B7%D0%B0%D0%BB%D0%B5.jpg?s=612x612&w=0&k=20&c=f4n0nMXAaPBSYIeSZ5b0g8q-KuLbhgLXKuNcJ9oi9J8=",
+    "promo": 10,
+    "description": "Тренировка на выносливость с длительными пробежками и контролем пульса. Включает упражнения на развитие общей выносливости и устойчивости к длительным нагрузкам."
+  },
+  {
+    "id": 4,
+    "name": "Подготовка к ГТО",
+    "price": "1600 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1395337483/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BC-%D0%B8-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D1%8B%D0%BC-%D0%B7%D0%B0%D0%BB%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=XJeamaZNbxqXvy322zwF6ZArr8orGMpL450vG7SSRqw=",
+    "description": "Комплексная подготовка к сдаче норм ГТО, включающая упражнения на силу, выносливость и гибкость. Индивидуальный подход к каждому нормативу."
+  },
+  {
+    "id": 5,
+    "name": "Подготовка к поступлению в вуз (сдача нормативов)",
+    "price": "1800 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1447561932/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%B8-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D0%BB-%D0%BB%D1%8E%D0%B4%D0%B8-%D1%81-%D0%B3%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F-%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B8%D0%BB%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F.jpg?s=612x612&w=0&k=20&c=bTwFCBF8hkMpKL2q-VwXN7zEHPVT0qyXINW3ADNhLs0=",
+    "description": "Специальная программа для подготовки к сдаче физических нормативов при поступлении в вуз. Включает работу над всеми необходимыми упражнениями и улучшение общей физической формы."
+  },
+  {
+    "id": 6,
+    "name": "Групповая тренировка (от 3 человек)",
+    "price": "1000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1319764588/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D1%85-%D0%B7%D1%80%D0%B5%D0%BB%D1%8B%D1%85-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B2-%D0%BF%D0%B0%D1%80%D0%BA%D0%B5-%D1%83%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8-%D1%80%D1%83%D0%BA%D0%B8-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8.jpg?s=612x612&w=0&k=20&c=9i0uUBd_mYaXBh9CDXJtLv9BwiWI9GL6PkiKOIb1QRg=",
+    "promo": 10,
+    "description": "Групповые тренировки, включающие разнообразные упражнения для улучшения общей физической формы. Акцент на командную работу и мотивацию."
+  },
+  {
+    "id": 7,
+    "name": "Персональная силовая тренировка",
+    "price": "2000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1149241593/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82-%D0%BA%D1%80%D0%BE%D1%81%D1%81-%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81-%D0%B2%D0%B5%D1%80%D0%B5%D0%B2%D0%BA%D0%BE%D0%B9.jpg?s=612x612&w=0&k=20&c=IlkshrMX7S3iPmiBnzUUPGt3z4IgxYEQE2ryKpidqik=",
+    "description": "Индивидуальная программа силовых тренировок, направленная на развитие мышечной массы и силы. Включает работу с весами и собственным весом."
+  },
+  {
+    "id": 8,
+    "name": "Персональная кардио тренировка",
+    "price": "2000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1417276700/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BE%D0%BC-%D0%B8-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D1%8B%D0%BC-%D0%B7%D0%B0%D0%BB%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=2Fqsxiq0ic3-hdvMatfrdc4QA8rKqaKkQdNpVBHfzjg=",
+    "description": "Персональная тренировка, направленная на улучшение сердечно-сосудистой системы. Включает кардио упражнения и интервальные тренировки для повышения выносливости."
+  },
+  {
+    "id": 9,
+    "name": "Ходьба на 100к шагов за сутки (сопровождение)",
+    "price": "5000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1486145188/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B5-%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F-%D0%B3%D1%83%D0%BB%D1%8F%D1%8E%D1%82-%D0%B2-%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D0%BF%D0%B0%D1%80%D0%BA%D0%B5.jpg?s=612x612&w=0&k=20&c=bMFnW8py0GxjnkOuV24N80FXSNUicNQYPxQtBnSMPT4=",
+    "promo": 10,
+    "description": "Программа сопровождения для достижения цели в 100к шагов за сутки. Включает мотивацию, контроль прогресса и рекомендации по улучшению активности."
+  },
+  {
+    "id": 10,
+    "name": "Беговой план на месяц",
+    "price": "2500 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/848574240/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D1%81%D1%83%D0%B0%D1%80%D1%8B-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D0%BB%D0%B5-%D0%B2-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%D0%BD%D0%BE%D0%BC-%D0%B7%D0%B0%D0%BB%D0%B5-%D0%B7%D0%B0%D0%B1%D0%BE%D1%82%D0%B8%D1%82%D1%81%D1%8F-%D0%BE-%D1%82%D0%B5%D0%BB%D0%B5-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F-%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B5.jpg?s=612x612&w=0&k=20&c=Ner3Ta_IAUZy2OxlY_iqAVvL1bb0Z2uXR_jV-tdy2zg=",
+    "promo": 20,
+    "description": "Месячный план тренировок по бегу, включающий разнообразные тренировки для улучшения выносливости, скорости и общей физической формы."
+  },
+  {
+    "id": 11,
+    "name": "Силовая подготовка в избранном виде спорта",
+    "price": "2000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1462871528/ru/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B6-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB-%D1%85%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9-%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB.jpg?s=612x612&w=0&k=20&c=I5nijemfP0m74O5SncqoctlzRF7Vx8vdSRxjTzSSHks=",
+    "description": "Специализированная программа силовой подготовки для конкретного вида спорта. Включает упражнения, направленные на улучшение физических показателей, необходимых для успешного выступления."
+  },
+  {
+    "id": 12,
+    "name": "План питания",
+    "price": "2000 руб.",
+    "imageUrl": "https://media.istockphoto.com/id/1093904158/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-%D0%B4%D0%B8%D0%B5%D1%82%D0%B0-%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B8%D1%89%D0%B0.jpg?s=612x612&w=0&k=20&c=OWqNzH746VHRRtBLBbQp9vLyMe-bt_mXjwro_eF5KTU=",
+    "promo": 10,
+    "description": "Индивидуальный план питания, разработанный с учетом ваших целей и потребностей. Включает рекомендации по питанию для поддержания здоровья и достижения спортивных результатов."
+  }
+]
