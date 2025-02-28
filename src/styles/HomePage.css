@@ -1,0 +1,204 @@
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://sun9-5.userapi.com/impg/t77dpqoEKHvTM20exESQTUNzR4c5f7LymK3eTA/Eu0zfDmghmI.jpg?size=1793x2160&quality=95&sign=d34851a0d061a28910c9be5a2ba7d685&type=album');
+  background-size: cover;
+  background-position: center -300px;
+  background-attachment: fixed;
+  color: white;
+  position: relative;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.home-container {
+  text-align: center;
+  padding: 50px;
+  padding-top: 60px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero-section {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.section-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 40px;
+  gap: 10px;
+}
+
+.section-text {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 20px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.1); /* Полупрозрачный фон для текста */
+  width: 45%;
+  text-align: left;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.section-text h2, .section-text h3 {
+  font-size: 1.75rem;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.section-text p {
+  font-size: 1rem;
+  color: #ddd;
+  line-height: 1.6;
+  margin: 15px 0;
+}
+
+.section-text ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.section-text ul li {
+  font-size: 1rem;
+  margin: 5px 0;
+}
+
+.personal-records-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.personal-records-column {
+  width: 48%;
+}
+
+.personal-records-column li {
+  margin: 10px 0;
+  padding: 5px;
+  border-left: 3px solid #00bcd4;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+.competitions-list li {
+  margin: 10px 0;
+  padding: 5px;
+  border-left: 3px solid #ff5722;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+.section-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.section-image {
+  width: 30%;
+}
+
+.gallery-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.carousel {
+  position: relative;
+  width: 50%;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.carousel-item {
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  position: relative;
+  padding: 10px;
+}
+
+.image-container {
+  width: 100%;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px 8px 0px 0px;
+  object-fit: cover;
+}
+
+.home-carousel-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.05);
+  color: white;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s;
+  width: 10%;
+  z-index: 2;
+}
+
+.home-carousel-button:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.home-carousel-button.prev {
+  left: 0;
+  border-top-left-radius: 8px;
+}
+
+.home-carousel-button.next {
+  right: 0;
+  border-top-right-radius: 8px;
+}
+
+.carousel-item h3 {
+  font-size: 1.5rem;
+  color: white;
+  background-color: #0000006b;
+  padding: 10px 0px;
+  border-radius: 0px 0px 15px 15px;
+  width: 100%;
+  margin: 0;
+}

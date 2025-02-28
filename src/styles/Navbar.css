@@ -1,0 +1,43 @@
+.nav-container {
+  background: #333;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.nav-container a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s;
+}
+
+.nav-container a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #00bcd4;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.nav-container a:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.nav-container a.active {
+  color: #00bcd4;
+}
+
+.nav-container a.active::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
